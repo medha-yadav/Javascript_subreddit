@@ -1,0 +1,16 @@
+.page-content{
+    padding:"20px";
+    margin:"20px";
+    font-family:"monospace";
+    font-size: "150%";
+    background: "#3090C7";
+    display: "block";
+    color:"#FFFFFF";
+} 
+/* newDiv.style.padding="20px";
+newDiv.style.margin="20px";
+newDiv.style.fontFamily="monospace";
+newDiv.style.fontSize="150%";
+newDiv.style.background = "#3090C7";
+newDiv.style.display= "block";
+newDiv.style.color="#ffffff"; */
